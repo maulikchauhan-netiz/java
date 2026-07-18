@@ -11,6 +11,14 @@ public class practice_3 {
             System.out.println(i);
         }
 
+        int j =1;
+        System.out.println("enter the number");
+        int num1 = sc.nextInt();
+        while ( j <= num1)
+        {
+            System.out.println(j);
+            j++;
+        }
     }
 }
 
